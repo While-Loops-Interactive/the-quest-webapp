@@ -8,7 +8,7 @@
         frameworkUrl: buildUrl + "/webgl.framework.js",
         codeUrl: buildUrl + "/webgl.wasm",
         streamingAssetsUrl: "StreamingAssets",
-        companyName: "DefaultCompany",
+        companyName: "while loops interactive",
         productName: "the-quest",
         productVersion: "1.0",
     };
