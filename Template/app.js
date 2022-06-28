@@ -9,7 +9,7 @@
         codeUrl: buildUrl + "/webgl.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "while loops interactive",
-        productName: "the-quest",
+        productName: "The Quest",
         productVersion: "1.0",
     };
 
